@@ -7,7 +7,7 @@ Casablanca, Morocco (AEFE)
 
 ## 👨‍🏫 About Me
 
-I'm a passionate mathematics and science teacher dedicated to inspiring curiosity and understanding in my students. With a love for education, pedagogy, and technology, I strive to create engaging digital resources that make learning math accessible and enjoyable—especially for 6th grade (6e). I’m always exploring innovative teaching methods, AI in education, and creative ways to blend music and learning.
+I'm a passionate mathematics and physics-chemistry teacher for middle and high school (collège et lycée) dedicated to inspiring curiosity and understanding in my students. With a love for education, pedagogy, and technology, I strive to create engaging digital resources that make learning math accessible and enjoyable—especially for 6th grade (6e). I’m always exploring innovative teaching methods, AI in education, and creative ways to blend music and learning.
 
 ---
 
